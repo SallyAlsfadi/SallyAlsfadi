@@ -74,7 +74,7 @@
 ### ⚙️ &nbsp; GitHub Analytics <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=SallyAlsfadi&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" /> </a> <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SallyAlsfadi&langs_count=3&hide_title=true&hide_border=true" /> </a>
+<a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=SallyAlsfadi&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" /> </a> 
 
 
 ### Github Activity: 🔥 
